@@ -1,0 +1,5 @@
+parameter,file,variable,default
+num_envs,train.ipynb,NUM_ENVS,4096
+learning_rate,train.ipynb,cfg_dict['algorithm']['learning_rate'],0.001
+max_iters,train.ipynb,MAX_ITERS,1001
+gripper_box,train.ipynb,env_cfg.reward_config.scales.gripper_box,4.0
