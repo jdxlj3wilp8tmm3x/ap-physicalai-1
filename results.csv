@@ -1,2 +1,3 @@
 experiment,changes,mean_reward,sr,time,behavior
 baseline,-,1405,10,2077,normal
+iters_500,MAX_ITERS=501,1393,8,995,shaky
