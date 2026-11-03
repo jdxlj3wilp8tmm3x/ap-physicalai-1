@@ -1,3 +1,4 @@
 experiment,changes,mean_reward,sr,time,behavior
 baseline,-,1405,10,2077,normal
 iters_500,MAX_ITERS=501,1393,8,995,shaky
+box,env_cfg.reward_config.scales.box_target=40.0,1521,10,1990,snappy
